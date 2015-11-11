@@ -2,9 +2,9 @@
 autor: Fabiano Cacin Pinel
 
 ## 1. Crie uma database chamada be-mean-pokemons;
-
-$ mongo be-mean-pokemons
 ```
+$ mongo be-mean-pokemons
+
 2015-11-11T00:10:13.422-0200 I CONTROL  Hotfix KB2731284 or later update is not installed, will zero-out data files
 MongoDB shell version: 3.0.7
 connecting to: be-mean-pokemons
