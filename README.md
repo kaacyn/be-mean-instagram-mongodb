@@ -3,6 +3,8 @@ GERAL
 
 Play List dba: https://www.youtube.com/playlist?list=PL77JVjKTJT2jyVllJeO3TZV9D5cfSvSjR
 Padrão para envio de exercício: https://github.com/Webschool-io/be-mean-instagram/wiki/Exerc%C3%ADcios
+Blog do colega com acompanhamento das aulas: http://pablodinella.github.io/2015/11/23/Be-MEAN-Aula-4-parte-1/
+http://gpanassol.github.io/notes/instanciacao-javascript/
 
 ###########
 GERAL GIT
@@ -67,6 +69,22 @@ var p = db.pokemons.findOne(query)
 Trabalhar com cursor:
 var cur = db.pokemons.find();
 while( cur.hasNext() ) { print(tojson(cur.next()))};
+
+
+
+
+###################################
+# Aula 4
+###################################
+
+mongoexport --db bemean --collection restaurantes --out c:\mongos\export.txt
+
+
+###################################
+# Aula 5
+###################################
+
+Arquivo pokemon https://github.com/Webschool-io/be-mean-instagram/tree/master/apostila/module-mongodb/data
 
 
 
